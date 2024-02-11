@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "517603694752",
+    "project_id": "greenplate-4d87e",
+    "storage_bucket": "greenplate-4d87e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:517603694752:android:e84da6c860a6129cfad1c5",
+        "android_client_info": {
+          "package_name": "com.example.food_ordering_mobile_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBh-ATtd-Z-942MEoeSZ4tDfRCnhOxjQJQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
